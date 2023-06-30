@@ -42,6 +42,6 @@
   <img src="https://img.shields.io/static/v1?label=WM&message=BSPWM&color=lightgray&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=blue&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=green&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Browser&message=Brave&color=orange&style=flat-square"/> <img src="https://img.shields.io/static/v1?label=Keyboard&message=HUO%20JI%20Z88&color=lightgray&style=flat-square"/>
 </div>
 
-## % echo #STATS
+## % echo $STATS
 
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bonitoflakez&show_icons=true&locale=en&layout=compact&hide_border=true&theme=nord&show_icons=ture&bg_color=181926&icon_color=b7bdf8&text_color=b7bdf8&title_color=84a0c6&count_private=ture" alt="sheepla" href="https://github.com/bonitoflakez" /></div>
