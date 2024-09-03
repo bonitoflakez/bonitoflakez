@@ -8,12 +8,11 @@ I’m Nikhil, a CS Student and a Full-Stack Web Developer from India.
 
 **Tools**
 
-<img src="https://img.shields.io/static/v1?label=Main&message=Arch%20Linux%20(Primary)&color=5e81ac&style=flat-square"/>
-<img src="https://img.shields.io/static/v1?label=Secondary&message=Windows%2011%20(Secondary)&color=5e81ac&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Main&message=Nix%20OS%20(Primary)&color=5e81ac&style=flat-square"/> 
 <img src="https://img.shields.io/static/v1?label=WM&message=i3&color=81a1c1&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=5e81ac&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=8fbcbb&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Browser&message=Brave&color=bf616a&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=5e81ac&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=8fbcbb&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Browser&message=Google Chrome&color=bf616a&style=flat-square"/> 
 <img src="https://img.shields.io/static/v1?label=Keyboard&message=HUO%20JI%20Z88&color=81a1c1&style=flat-square"/>
 
 ---
