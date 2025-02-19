@@ -2,18 +2,19 @@
 
 =￣ω￣=
   
-I’m Nikhil, a CS Student and a Full-Stack Web Developer from India.
+I’m Nikhil, CS Student and a Full-Stack Dev from India.
 
 ---
 
 **Tools**
 
-<img src="https://img.shields.io/static/v1?label=Main&message=Fedora%20(Primary)&color=5e81ac&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=DE&message=Gnome&color=81a1c1&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Editor&message=NeoVim&color=5e81ac&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Editor&message=VSCode&color=8fbcbb&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Browser&message=Google Chrome&color=bf616a&style=flat-square"/> 
-<img src="https://img.shields.io/static/v1?label=Keyboard&message=HUO%20JI%20Z88&color=81a1c1&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=Dev OS&message=NixOS&color=5e81ac&style=flat-square"/>
+<img src="https://img.shields.io/static/v1?label=Gaming OS&message=Win10&color=5e81ac&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=WM&message=Hyprland&color=81a1c1&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Main Editor&message=NeoVim&color=5e81ac&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Secondary Editor&message=Zed&color=8fbcbb&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Browser&message=Brave&color=bf616a&style=flat-square"/> 
+<img src="https://img.shields.io/static/v1?label=Keyb&message=HUO%20JI%20Z88%20(Outemu Browns)&color=81a1c1&style=flat-square"/>
 
 ---
 
